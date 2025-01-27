@@ -9,9 +9,9 @@ This repository contains two separate AVR-based embedded systems projects showca
 1️⃣ AVR Dice Roll Simulator 🎲
 Simulate a dice roll using an ATmega microcontroller, push button, and LEDs. This project demonstrates:
 
-|>> External Interrupt Handling: Rolling the dice with a button press.
-|>> Random Number Generation: Using rand() to generate values between 1 and 6.
-|>> LED Control: Displaying results with six LEDs.
+> External Interrupt Handling: Rolling the dice with a button press.
+> Random Number Generation: Using rand() to generate values between 1 and 6.
+> LED Control: Displaying results with six LEDs.
 
 How It Works:
 |>> Press the button connected to pin PD2.
