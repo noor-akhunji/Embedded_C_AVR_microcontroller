@@ -47,7 +47,7 @@ Combined Requirements:
 |>> Pushbutton for user input.
 
 Usage Instructions:
-|>> Clone the repository.
+|>> Clone the repository.\
 |>> Navigate to the respective project's folder.
 |>> Compile and upload the code using AVRDUDE or a similar tool.
 |>> Connect the circuit as per the pin configuration in the code.
