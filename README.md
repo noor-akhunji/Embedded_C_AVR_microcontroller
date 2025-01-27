@@ -7,8 +7,9 @@ This repository contains two separate AVR-based embedded systems projects showca
 2. PWM Signal Generator with Dynamic Duty Cycle Adjustment
    
 # 1️⃣ AVR Dice Roll Simulator 🎲
-Simulate a dice roll using an ATmega microcontroller, push button, and LEDs. This project demonstrates:
+Simulate a dice roll using an ATmega microcontroller, push button, and LEDs. 
 
+This project demonstrates:
 - External Interrupt Handling: Rolling the dice with a button press.
 - Random Number Generation: Using rand() to generate values between 1 and 6.
 - LED Control: Displaying results with six LEDs.
@@ -23,9 +24,9 @@ Features:
 - Randomized dice values for every roll.
 - Clear and concise LED-based visual feedback.
 
-2️⃣ PWM Signal Generator with Dynamic Duty Cycle 📶
-Generate a pulse-width modulation (PWM) signal with variable duty cycles using Timer 0 on an ATmega microcontroller. This project highlights:
+# 2️⃣ PWM Signal Generator with Dynamic Duty Cycle 📶 Generate a pulse-width modulation (PWM) signal with variable duty cycles using Timer 0 on an ATmega microcontroller. 
 
+This project highlights:
 - PWM Signal Generation: Using Timer 0 in Fast PWM mode.
 - Dynamic Duty Cycle Adjustment: Cycles through preset duty cycles (0%, 25%, 62.5%, 87.5%) with each button press.
 - Pushbutton Input Handling: Incrementing the duty cycle index while avoiding bounce issues.
